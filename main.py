@@ -1,18 +1,12 @@
 import random
 
 elementos = [
-    'a',
-    'b',
-    'c',
-    'd',
-    'e',
-    'f',
-    'g',
-    'h',
-    'i',
-    'j',
-    'k',
-    'l',
+    'persona_1',
+    'persona_2',
+    'persona_3',
+    'persona_4',
+    'persona_5',
+    'persona_6'
 ]
 parejas = []
 
